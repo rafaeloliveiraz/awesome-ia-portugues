@@ -38,6 +38,7 @@ Assistentes de IA que entendem e respondem bem em português.
 - [LangChain](https://www.langchain.com) — Framework para criar aplicações com LLMs.
 - [LlamaIndex](https://www.llamaindex.ai) — Conecte seus dados a LLMs (RAG).
 - [OpenRouter](https://openrouter.ai) — Uma API única para acessar dezenas de modelos.
+- [YYLO](https://github.com/yylo-dev/yylo) — Orquestrador de linha de comando para agentes de código: tarefas tipadas, fluxos de trabalho repetíveis e mudanças no repositório com recibos, com limites de validação, merge e prontidão para release.
 
 ## 🎓 Cursos e Trilhas de Aprendizado
 
