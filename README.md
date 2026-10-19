@@ -38,6 +38,7 @@ Assistentes de IA que entendem e respondem bem em português.
 - [LangChain](https://www.langchain.com) — Framework para criar aplicações com LLMs.
 - [LlamaIndex](https://www.llamaindex.ai) — Conecte seus dados a LLMs (RAG).
 - [OpenRouter](https://openrouter.ai) — Uma API única para acessar dezenas de modelos.
+- [Orkas](https://github.com/Orkas-AI/Orkas) — App desktop de código aberto (MIT) para macOS e Windows em que o Commander distribui o trabalho entre agentes especialistas e pode acionar o Claude Code, o Codex e o OpenCode instalados na máquina; funciona com os modelos hospedados oficiais (500 créditos grátis para novos usuários) ou com sua própria chave de API.
 
 ## 🎓 Cursos e Trilhas de Aprendizado
 
