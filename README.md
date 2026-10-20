@@ -38,6 +38,7 @@ Assistentes de IA que entendem e respondem bem em português.
 - [LangChain](https://www.langchain.com) — Framework para criar aplicações com LLMs.
 - [LlamaIndex](https://www.llamaindex.ai) — Conecte seus dados a LLMs (RAG).
 - [OpenRouter](https://openrouter.ai) — Uma API única para acessar dezenas de modelos.
+- [PlaceCall](https://voygr.tech/placecall/) — API e servidor MCP remoto para que agentes de IA façam ligações telefônicas reais para empresas nos EUA (reservas, agendamentos, orçamentos) e recebam o resultado e a transcrição. Só liga para números dos EUA.
 
 ## 🎓 Cursos e Trilhas de Aprendizado
 
