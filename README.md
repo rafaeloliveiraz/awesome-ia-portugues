@@ -38,6 +38,7 @@ Assistentes de IA que entendem e respondem bem em português.
 - [LangChain](https://www.langchain.com) — Framework para criar aplicações com LLMs.
 - [LlamaIndex](https://www.llamaindex.ai) — Conecte seus dados a LLMs (RAG).
 - [OpenRouter](https://openrouter.ai) — Uma API única para acessar dezenas de modelos.
+- [looot](https://looot.ai) — Uma chave de API e saldo pré-pago para mais de 4.200 operações de dados de negócios de mais de 300 provedores, com servidor MCP remoto para agentes de IA.
 
 ## 🎓 Cursos e Trilhas de Aprendizado
 
