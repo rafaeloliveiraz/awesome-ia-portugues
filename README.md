@@ -37,6 +37,7 @@ Assistentes de IA que entendem e respondem bem em português.
 - [Ollama](https://ollama.com) — Rode modelos de IA localmente na sua máquina.
 - [LangChain](https://www.langchain.com) — Framework para criar aplicações com LLMs.
 - [LlamaIndex](https://www.llamaindex.ai) — Conecte seus dados a LLMs (RAG).
+- [Imagera LLM API](https://imagera.ai/llm-api) — Endpoint compatível com a OpenAI para mais de 320 modelos de linguagem de 48 laboratórios (GPT, Claude, Gemini, Llama, DeepSeek, Qwen) com uma única chave de API e cobrança por token.
 - [OpenRouter](https://openrouter.ai) — Uma API única para acessar dezenas de modelos.
 
 ## 🎓 Cursos e Trilhas de Aprendizado
